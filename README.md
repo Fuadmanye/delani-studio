@@ -17,5 +17,5 @@ JQUERY,
 ## contact details
 Email:fuad.manyi@student.moringaschool.com
 ### License
-Copyright (c) 2022 click here to view license
+Copyright (c) 2022 [click here to view license](LICENSE)
 
