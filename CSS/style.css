@@ -86,5 +86,14 @@ body{
         margin-left:5%;
         color: white;
       }
-      
+      #form textarea{
+        background-color: transparent;
+        color: white;
+      }
+      #email::placeholder{
+        color: white;
+      }
+      #name::placeholder{
+        color: white;
+      }
 
